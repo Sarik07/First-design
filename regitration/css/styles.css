@@ -1,0 +1,65 @@
+/**************** selector *****************/
+body {
+  background-color: black;
+  color: blanchedalmond;
+  margin: 0px;
+}
+/*
+form {
+    
+ }
+img {
+  background-color: yellow;
+  height: 50px;
+  width: 200px;
+}  */
+/**********class**********/
+div.boss {
+  background-color: chartreuse;
+  border: solid;
+  border-color: crimson;
+}
+div.hasan {
+  background-color: springgreen;
+  color: blueviolet;
+  height: 150px;
+  width: 150px;
+  border-color: darkblue;
+  border: solid;
+  margin-top: 0%;
+  margin-left: 193px;
+  margin-bottom: 0;
+  padding: 15px;
+}
+div.sarik {
+  margin-top: 10px;
+  background-color: skyblue;
+  height: 150px;
+  width: 150px;
+  color: blue;
+  border: solid;
+  margin-top: 10%;
+  margin-left: 10px;
+  margin-bottom: 0;
+  padding: 15px;
+}
+div.ekram {
+  margin-top: 10px;
+  background-color: skyblue;
+  height: 150px;
+  width: 150px;
+  color: blue;
+  border: solid;
+  margin-top: 0%;
+  margin-left: 377px;
+  margin-bottom: 10%;
+  padding: 15px;
+}
+
+.reg {
+  background-color: teal;
+}
+.reg:hover {
+  background-color: tomato;
+  border-radius: 100%;
+}
